@@ -35,7 +35,7 @@ This project features a Single Address Decoder PCB Circuit, designed to decode a
 
 ## PCB Design:
 
-<img src="https://github.com/sohailaesmat14/Single_address_decoder_PCB/assets/170406386/f7a1fe7f-a56c-49b5-99e7-e46af4cf2d8b" alt="PCB Design" align="center" width="300" style="margin-left: 20px;">
+<img src="https://github.com/sohailaesmat14/Single_address_decoder_PCB/assets/170406386/f7a1fe7f-a56c-49b5-99e7-e46af4cf2d8b" alt="PCB Design" align="center" width="300">
 
 
 ## Notes:
